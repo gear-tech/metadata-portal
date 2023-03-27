@@ -8,22 +8,22 @@
     "base58prefix": 137,
     "icon": "/img/vara-logo.svg",
     "decimals": 12,
-    "metadataVersion": 120,
+    "metadataVersion": 130,
     "metadataQr": {
-      "path": "qr/vara_metadata_120.apng",
-      "signedBy": "Gear Technologies",
-      "source": {
-        "type": "Rpc",
-        "block": "0x89014692671ac05ff67f00612865477f858ef7c52d94f8d2ed36da4287041efd"
-      }
-    },
-    "nextMetadataVersion": 130,
-    "nextMetadataQr": {
       "path": "qr/vara_metadata_130.apng",
       "signedBy": "Gear Technologies",
       "source": {
         "type": "Rpc",
         "block": "0x25ca4d4704907040808440d0394ad52a4599c1362523d82420e7a6f151ca99f6"
+      }
+    },
+    "nextMetadataVersion": 140,
+    "nextMetadataQr": {
+      "path": "qr/vara_metadata_140.apng",
+      "signedBy": "Gear Technologies",
+      "source": {
+        "type": "Rpc",
+        "block": "0x9e4cdd67f32c4ed9ed0bb20d2e897267d33701ba8f5d353c2b08845129f11a42"
       }
     },
     "latestMetadata": "qr/vara_metadata_latest.apng",
