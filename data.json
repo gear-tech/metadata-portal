@@ -14,18 +14,11 @@
       "signedBy": "Gear Technologies",
       "source": {
         "type": "Rpc",
-        "block": "0x25ca4d4704907040808440d0394ad52a4599c1362523d82420e7a6f151ca99f6"
+        "block": "0x28a052aa6691bc9686be664d6a772a8d65a07b6a5da9cf94319f1e577d09d2e2"
       }
     },
-    "nextMetadataVersion": 140,
-    "nextMetadataQr": {
-      "path": "qr/vara_metadata_140.apng",
-      "signedBy": "Gear Technologies",
-      "source": {
-        "type": "Rpc",
-        "block": "0x9e4cdd67f32c4ed9ed0bb20d2e897267d33701ba8f5d353c2b08845129f11a42"
-      }
-    },
+    "nextMetadataVersion": null,
+    "nextMetadataQr": null,
     "latestMetadata": "qr/vara_metadata_latest.apng",
     "specsQr": {
       "path": "qr/vara_specs.png",
