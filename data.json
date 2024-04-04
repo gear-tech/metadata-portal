@@ -8,13 +8,13 @@
     "base58prefix": 137,
     "icon": "/img/vara-logo.svg",
     "decimals": 12,
-    "metadataVersion": 1110,
+    "metadataVersion": 1200,
     "metadataQr": {
-      "path": "qr/vara_metadata_1110.apng",
+      "path": "qr/vara_metadata_1200.apng",
       "signedBy": "Gear Technologies",
       "source": {
         "type": "Rpc",
-        "block": "0x605123b6bb66a43d4675f970b71e9312008ec204ee3a1ba771757d4b3893c373"
+        "block": "0xb27786205178c48372341c7e5b254ba50233648f63cd388450e8bdb1e11929fd"
       }
     },
     "nextMetadataVersion": null,
